@@ -64,7 +64,7 @@ public class Main3 {
         mahasiswa.forEach(mahasiswaa -> System.out.println(mahasiswaa));
 
         System.out.println("\n-----------{ Add }-------------");
-        mahasiswa.add(1, new Mahasiswa(29, "fitria wulandari", "Informatika", 140622));
+        mahasiswa.add(1, new Mahasiswa(29, "Dina fitria ", "Informatika", 140622));
         mahasiswa.forEach(mahasiswaa -> System.out.println(mahasiswaa));
 
         System.out.println("-----------{ Size }-------------");
