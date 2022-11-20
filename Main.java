@@ -7,7 +7,7 @@ public class Main {
         System.out.println("bilangan genap");
         for (int i = 0; i< arangka.length; i++){
             if (arangka[i]%2 == 0){
-                System.out.println(arka[i]);
+                System.out.println(arangka[i]);
             }
         }
         System.out.println("bilangan ganjil");
